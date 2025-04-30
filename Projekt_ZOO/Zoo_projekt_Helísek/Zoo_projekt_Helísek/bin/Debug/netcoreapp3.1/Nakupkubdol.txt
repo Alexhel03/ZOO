@@ -1,0 +1,11 @@
+Zvíře: Tygr, Jméno: Alex, Pohlaví: Samice, Věk: 5, Cena: 33868
+Zvíře: Pelikán, Jméno: Robin, Pohlaví: Samec, Věk: 3, Cena: 36697
+Zvíře: Žirafa, Jméno: Kája, Pohlaví: Samice, Věk: 4, Cena: 21151
+Zvíře: Tygr, Jméno: Adrian, Pohlaví: Samice, Věk: 5, Cena: 48511
+Zvíře: Kajman, Jméno: Alex, Pohlaví: Samice, Věk: 1, Cena: 43137
+Zvíře: Gorila, Jméno: Kája, Pohlaví: Samec, Věk: 3, Cena: 45515
+Zvíře: Varan, Jméno: Angel, Pohlaví: Samec, Věk: 4, Cena: 20097
+Zvíře: Tučňák, Jméno: Sam, Pohlaví: Samec, Věk: 4, Cena: 49096
+Zvíře: Tučňák, Jméno: Adrian, Pohlaví: Samec, Věk: 5, Cena: 44934
+Zvíře: Delfín, Jméno: Robin, Pohlaví: Samice, Věk: 1, Cena: 2552
+Zvíře: Monstrum, Jméno Jožin z Bažin, Pohlaví: neznámý, Věk: neznámý, Cena: 60000

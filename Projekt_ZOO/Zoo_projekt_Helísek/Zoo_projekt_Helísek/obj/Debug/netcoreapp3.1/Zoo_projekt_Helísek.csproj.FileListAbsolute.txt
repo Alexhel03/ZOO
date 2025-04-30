@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\bin\Debug\netcoreapp3.1\Zoo_projekt_Helísek.exe
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\bin\Debug\netcoreapp3.1\Zoo_projekt_Helísek.deps.json
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\bin\Debug\netcoreapp3.1\Zoo_projekt_Helísek.runtimeconfig.json
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\bin\Debug\netcoreapp3.1\Zoo_projekt_Helísek.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\bin\Debug\netcoreapp3.1\Zoo_projekt_Helísek.dll
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\bin\Debug\netcoreapp3.1\Zoo_projekt_Helísek.pdb
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\obj\Debug\netcoreapp3.1\Zoo_projekt_Helísek.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\obj\Debug\netcoreapp3.1\Zoo_projekt_Helísek.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\obj\Debug\netcoreapp3.1\Zoo_projekt_Helísek.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\obj\Debug\netcoreapp3.1\Zoo_projekt_Helísek.dll
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\obj\Debug\netcoreapp3.1\Zoo_projekt_Helísek.pdb
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\obj\Debug\netcoreapp3.1\Zoo_projekt_Helísek.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\obj\Debug\netcoreapp3.1\Zoo_projekt_Helísek.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Projek_ZOO\Zoo_projekt_Helísek\Zoo_projekt_Helísek\obj\Debug\netcoreapp3.1\Zoo_projekt_Helísek.GeneratedMSBuildEditorConfig.editorconfig

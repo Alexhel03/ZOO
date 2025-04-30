@@ -1,0 +1,9 @@
+kubdol
+kubdol
+Zvíře: Delfín, Jméno: Robin, Pohlaví: Samice, Věk: 29, Cena: 2552
+Zvíře: Tučňák, Jméno: Adrian, Pohlaví: Samec, Věk: 29, Cena: 44934
+Zvíře: Tučňák, Jméno: Sam, Pohlaví: Samec, Věk: 17, Cena: 49096
+Zvíře: Tučňák, Jméno: Adrian, Pohlaví: Samec, Věk: 18, Cena: 44934
+Zvíře: Delfín, Jméno: Robin, Pohlaví: Samice, Věk: 2, Cena: 2552
+Zvíře: Tučňák, Jméno: Adrian, Pohlaví: Samec, Věk: 6, Cena: 44934
+Zvíře: Tučňák, Jméno: Sam, Pohlaví: Samec, Věk: 5, Cena: 49096

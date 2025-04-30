@@ -1,0 +1,11 @@
+Zvíře: Lev, Jméno: Angel, Pohlaví: Samec, Věk: 1, Cena: 25512
+Zvíře: Papoušek, Jméno: Ariel, Pohlaví: Samec, Věk: 2, Cena: 33294
+Zvíře: Hroch, Jméno: Ariel, Pohlaví: Samec, Věk: 5, Cena: 18995
+Zvíře: Kajman, Jméno: Ariel, Pohlaví: Samice, Věk: 5, Cena: 13566
+Zvíře: Žirafa, Jméno: Kája, Pohlaví: Samice, Věk: 3, Cena: 49657
+Zvíře: Hroch, Jméno: Kája, Pohlaví: Samice, Věk: 1, Cena: 29735
+Zvíře: Žralok tygří, Jméno: Kája, Pohlaví: Samec, Věk: 1, Cena: 26869
+Zvíře: Slon, Jméno: Sam, Pohlaví: Samice, Věk: 3, Cena: 14718
+Zvíře: Žirafa, Jméno: Sam, Pohlaví: Samec, Věk: 4, Cena: 14401
+Zvíře: Gorila, Jméno: Ariel, Pohlaví: Samec, Věk: 4, Cena: 37571
+Zvíře: Monstrum, Jméno Jožin z Bažin, Pohlaví: neznámý, Věk: neznámý, Cena: 60000
