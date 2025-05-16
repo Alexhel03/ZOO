@@ -1,7 +1,7 @@
 # ZOO
 Hra s příkazovým řádkem, ve které hrajete za majitele zoo. Můžete si nastavit barvu písma nebo barvu pozadí. Hra nabízí vytvoření a uložení účtů s heslem, takže se nemusíte bát, že byste přišli o veškerý svůj progres.
 
-Otevřete vee Visual Studio
+Otevřete ve Visual Studio
 
 ---English---
 
